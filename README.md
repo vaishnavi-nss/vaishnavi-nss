@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaishnavi-nss
-- 🌱 I’m currently learning OOPS and Web development
+- 🌱 I’m currently learning Machine Learning and App Development!
 - 📫 Reach me on nss.vaishnavi111@gmail.com 
 - ⚡ Fun fact: I know C,C++ and Python programming languages 
 
